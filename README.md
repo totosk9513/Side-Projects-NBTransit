@@ -1,5 +1,5 @@
 # Side-Projects-NBTransit
-**UNSTARTED PROJECTED**
+**UNSTARTED PROJECT**
 
 This is a what-if transit system combining Rutgers-NB's bus system and Nj's transit systems near Rutgers. (New Brunswick, East/South/North Brunswick, Highland Park, Edison, Metuchen....)
 This system includes: All Rutgers-NB bus lines, NEC, NJ Transit bus lines.
